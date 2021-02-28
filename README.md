@@ -8,5 +8,6 @@ Now, we know what you may be thinking: "Duh. It gets hotter..."
 
 But, if pressed, how would you prove it?
 
-![](Images/equatorsign.png)![image](https://user-images.githubusercontent.com/68512480/109438101-30e55000-79dd-11eb-8b23-6947a591c3d1.png)
+![](WeatherPy/Images/equatorsign.png)![image](https://user-images.githubusercontent.com/68512480/109438194-b49f3c80-79dd-11eb-928d-d101e10a8663.png)
+
 
