@@ -8,4 +8,5 @@ Now, we know what you may be thinking: "Duh. It gets hotter..."
 
 But, if pressed, how would you prove it?
 
-![](Images/sql.jpg)![image](https://user-images.githubusercontent.com/68512480/109438053-ef54a500-79dc-11eb-8bb7-6b858fc0c422.png)
+![](Images/equatorsign.png)![image](https://user-images.githubusercontent.com/68512480/109438101-30e55000-79dd-11eb-8b23-6947a591c3d1.png)
+
