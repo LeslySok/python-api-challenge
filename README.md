@@ -8,6 +8,22 @@ Now, we know what you may be thinking: "Duh. It gets hotter..."
 
 But, if pressed, how would you prove it?
 
-![](WeatherPy/Images/equatorsign.png)![image](https://user-images.githubusercontent.com/68512480/109438194-b49f3c80-79dd-11eb-928d-d101e10a8663.png)
+![](WeatherPy/Images/equatorsign.png)
 
 
+Before You Begin
+
+
+1. Create a new repository for this project called python-api-challenge. Do not add this homework to an existing repository.
+
+
+2. Clone the new repository to your computer.
+
+
+3. Inside your local git repository, create a directory for both of the  Python Challenges. Use folder names corresponding to the challenges: WeatherPy.
+
+
+4. Inside the folder that you just created, add new files called WeatherPy.ipynb and VacationPy.ipynb. These will be the main scripts to run for each analysis.
+
+
+5. Push the above changes to GitHub.
